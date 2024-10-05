@@ -2,48 +2,69 @@
 
 ## 🚀 Aspiring Full Stack Developer | 💻 Computer Science Student
 
-Welcome to my GitHub playground! I'm on a journey to master the art of full stack development, one line of code at a time.
+Welcome to my digital workshop! Here, lines of code transform into digital experiences, and ideas come to life through pixels and algorithms.
 
 ### 🌟 About Me
 
-- 🎓 Computer Science student with a passion for building digital solutions
-- 🔭 Currently exploring the realms of both frontend and backend technologies
-- 🌱 Always learning, always growing in the ever-evolving world of tech
+- 🎓 Computer Science student with an insatiable curiosity for technology
+- 🔭 Exploring the vast universe of full stack development
+- 🌱 Cultivating skills in both frontend finesse and backend brilliance
+- 💡 Turning caffeine into code since [your start year]
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Toolbox
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
-### 🌈 What I'm Up To
+### 🌈 Current Quests
 
-- 🔨 Building projects that challenge and expand my skills
-- 📚 Diving deep into backend technologies
-- 🎨 Crafting beautiful and responsive user interfaces
-- 🤝 Collaborating with fellow developers and learning from the community
+- 🏗️ Architecting robust backend systems that can withstand the test of scale
+- 🎨 Painting the web with responsive and intuitive user interfaces
+- 🧠 Delving into the realms of AI and machine learning
+- 🌐 Contributing to open-source projects that make a difference
 
-### 🤝 Let's Connect!
+### 📊 GitHub Stats
 
-I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bahaskoding&show_icons=true&theme=radical" alt="bahaskoding's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahaskoding&theme=dark" alt="bahaskoding's streak" />
+</p>
+
+### 💼 Featured Projects
+
+Here are some of the digital adventures I've embarked on:
+
+1. 🚀 [Project Name] - A brief description that hooks the reader
+2. 🌟 [Another Project] - What problem does it solve? Why is it cool?
+3. 🔥 [Yet Another Project] - Your proudest achievement? Let it shine!
+
+### 🤝 Let's Connect and Create!
+
+Whether you're looking to collaborate on a project, need some tech advice, or just want to geek out about the latest framework, I'm all ears! Let's connect and create something extraordinary together.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bahaskoding/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rai-rakhmat-syarifudin-supardi-b04818236/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.rkhmt@gmail.com)
 
-### 💡 Let's Create Something Amazing Together!
+### 💡 Coding Philosophy
 
-Whether you're looking for a collaborator on a project, need some advice, or just want to chat about the latest in tech, I'm all ears. Don't hesitate to drop me a message!
+> "The only way to do great work is to love what you do." - Steve Jobs
 
-Remember: Every expert was once a beginner. Keep coding, keep learning, and enjoy the journey! 🚀
+I believe in writing code that not only works but tells a story. Every function, every class, every project is an opportunity to create something meaningful and impactful.
+
+Remember: In the world of coding, every error is just a stepping stone to success. Keep pushing, keep learning, and let's make the digital world a better place, one commit at a time! 🚀
