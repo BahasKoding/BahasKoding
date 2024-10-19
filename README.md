@@ -28,12 +28,17 @@ Welcome to my digital workshop! Here, lines of code transform into digital exper
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
-### 🌈 Current Quests
+### 🚀 Current Focus & Learning Journey
 
-- 🏗️ Architecting robust backend systems that can withstand the test of scale
-- 🎨 Painting the web with responsive and intuitive user interfaces
-- 🧠 Delving into the realms of AI and machine learning
-- 🌐 Contributing to open-source projects that make a difference
+- 💻 Mastering full stack development, from server-side logic to user interfaces
+- 🔧 Building practical projects to apply classroom knowledge in real-world scenarios
+- 📚 Expanding my understanding of data structures and algorithms
+- 🤝 Collaborating with peers on innovative coding projects
+- 🌱 Exploring emerging technologies to stay ahead in the ever-evolving tech landscape
+
+### 📱 Share & Learn
+
+I believe in the power of community and knowledge sharing. That's why I regularly post coding tips, tricks, and experiences on my Instagram: [@bahaskoding](https://www.instagram.com/bahaskoding/). It's a space where I transform complex coding concepts into bite-sized, digestible content. Whether you're a beginner or an experienced developer, there's always something new to learn. Follow me for regular updates on web development, coding challenges, and insights into the ever-evolving world of technology!
 
 ### 📊 GitHub Stats
 
@@ -49,9 +54,15 @@ Welcome to my digital workshop! Here, lines of code transform into digital exper
 
 Here are some of the digital adventures I've embarked on:
 
-1. 🚀 [Project Name] - A brief description that hooks the reader
-2. 🌟 [Another Project] - What problem does it solve? Why is it cool?
-3. 🔥 [Yet Another Project] - Your proudest achievement? Let it shine!
+1. 🏨 [Landing Page Hotel](https://landing-page-hotels.vercel.app/) - A sleek and responsive landing page for a hotel, showcasing the power of modern web technologies:
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/>
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+   (Alpine JS) and integrated with Google Maps API.
+
+2. 🌟 [Project Name] - Brief description of another cool project you've worked on.
+3. 🔥 [Project Name] - Your third impressive project goes here!
 
 ### 🤝 Let's Connect and Create!
 
@@ -60,6 +71,7 @@ Whether you're looking to collaborate on a project, need some tech advice, or ju
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bahaskoding/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rai-rakhmat-syarifudin-supardi-b04818236/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.rkhmt@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/bahaskoding)
 
 ### 💡 Coding Philosophy
 
