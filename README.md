@@ -1,6 +1,6 @@
-# 👋 Halo! Saya Rai (@bahaskoding)
-
 ![Banner GitHub](https://github.com/BahasKoding/BahasKoding/blob/main/banner%20github.png)
+
+# 👋 Halo! Saya Rai (@bahaskoding)
 
 Selamat datang di ruang kreatif saya! Di sini, setiap baris kode adalah sebuah cerita, dan setiap project adalah petualangan baru.
 
