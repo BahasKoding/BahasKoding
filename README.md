@@ -1,7 +1,5 @@
 # 👋 Halo! Saya Rai (@bahaskoding)
 
-## 🎯 Information System Student | 🎥 Content Creator | 💻 Web Developer
-
 Selamat datang di ruang kreatif saya! Di sini, setiap baris kode adalah sebuah cerita, dan setiap project adalah petualangan baru.
 
 ### 🌟 Tentang Saya
