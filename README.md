@@ -1,75 +1,84 @@
-![Banner GitHub](https://github.com/BahasKoding/BahasKoding/blob/main/banner%20github.png)
+<div align="center">
 
-# 👋 Halo! Saya Rai (@bahaskoding)
+```
+██████╗  █████╗ ██╗
+██╔══██╗██╔══██╗██║
+██████╔╝███████║██║
+██╔══██╗██╔══██║██║
+██║  ██║██║  ██║██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+```
 
-Selamat datang di ruang kreatif saya! Di sini, setiap baris kode adalah sebuah cerita, dan setiap project adalah petualangan baru.
+### Rai Rakhmat · @bahaskoding
+**Information Systems Student · Web Developer · Content Creator**
 
-### 🌟 Tentang Saya
+[![Instagram](https://img.shields.io/badge/-@bahaskoding-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bahaskoding/)
+[![LinkedIn](https://img.shields.io/badge/-Rai%20Rakhmat-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rai-rakhmat-syarifudin-supardi-b04818236/)
+[![Gmail](https://img.shields.io/badge/-business.rkhmt@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:business.rkhmt@gmail.com)
+[![Discord](https://img.shields.io/badge/-bahaskoding-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/bahaskoding)
 
-- 📚 Mahasiswa Sistem Informasi yang gemar mengeksplorasi dunia teknologi
-- 🎥 Content Creator yang membagikan ilmu pemrograman melalui konten-konten edukatif
-- 💡 Memulai perjalanan coding sejak 2020 dan terus belajar hingga saat ini
-- 🚀 Berkomitmen untuk terus berkembang di dunia pengembangan web
+</div>
 
-### 🛠️ Tech Stack
+---
 
-#### Bahasa Pemrograman & Framework
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</p>
+## whoami
 
-#### Database & Styling
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</p>
+Mahasiswa Sistem Informasi yang mulai coding sejak **2020**. Fokus di web development, aktif sharing ilmu lewat konten edukatif — karena belajar lebih bermakna kalau bisa dibagikan.
 
-#### Tools Favorit
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
-</p>
+```js
+const rai = {
+  role:     ["Student", "Web Developer", "Content Creator"],
+  focus:    "Web Development",
+  since:    2020,
+  currently: "Building, learning, and sharing",
+};
+```
 
-### 📱 Berbagi & Menginspirasi
+---
 
-Saya percaya bahwa berbagi ilmu adalah salah satu cara terbaik untuk berkembang bersama. Melalui konten-konten di media sosial, saya membagikan:
-- 💡 Tips dan trik pemrograman
-- 🔍 Tutorial pengembangan web
-- 🎯 Insight seputar teknologi terkini
-- 🌱 Pengalaman belajar programming
+## Tech Stack
 
-### 📊 GitHub Stats
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahaskoding&show_icons=true&theme=radical" alt="bahaskoding's GitHub stats" />
-</p>
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahaskoding&theme=dark" alt="bahaskoding's streak" />
-</p>
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🤝 Mari Terhubung!
+**Tools**
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-Apakah kamu tertarik dengan dunia programming? Atau mungkin punya ide project yang menarik? Yuk, connect dan diskusi bareng!
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bahaskoding/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rai-rakhmat-syarifudin-supardi-b04818236/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.rkhmt@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/bahaskoding)
+## GitHub Stats
 
-### 💭 Filosofi Coding
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bahaskoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahaskoding&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
 
-> "Belajar coding bukan tentang seberapa cepat kamu menguasainya, tapi seberapa gigih kamu dalam prosesnya."
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahaskoding&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
 
-Mari bersama-sama menciptakan dampak positif melalui teknologi! Jangan lupa follow untuk mendapatkan update konten menarik seputar programming ya! 🚀
+---
+
+<div align="center">
+
+*"Belajar coding bukan tentang seberapa cepat kamu menguasainya,*
+*tapi seberapa gigih kamu dalam prosesnya."*
+
+</div>
