@@ -11,70 +11,79 @@
 
 **`Rai Rakhmat Syarifudin Supardi`** — biasa dipanggil **Rai**, dikenal di internet sebagai **@bahaskoding**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Content+Creator;Google+Student+Ambassador+%F0%9F%8F%86+GSA+2025;Top+20+Gemini+Achiever+%E2%9C%A8;Sharing+code%2C+one+tutorial+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full--Stack+Web+Developer+%7C+Tech+Educator;Director+Technical+%40GDGoC+IPB+%F0%9F%8F%9B%EF%B8%8F;Google+Student+Ambassador+%F0%9F%8F%86+GSA+2025;Top+20+Gemini+Achiever+%E2%9C%A8;1%3A1+Private+Mentor+%7C+Empowering+26K%2B+Learners.)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/bahaskoding.com-000000?style=flat-square&logo=safari&logoColor=white)](https://bahaskoding.com/)
-[![Instagram](https://img.shields.io/badge/@bahaskoding-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bahaskoding/)
-[![LinkedIn](https://img.shields.io/badge/Rai%20Rakhmat-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rai-rakhmat/)
-[![Medium](https://img.shields.io/badge/@bahaskoding-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@bahaskoding)
-[![Gmail](https://img.shields.io/badge/business.rkhmt@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:business.rkhmt@gmail.com)
-[![Discord](https://img.shields.io/badge/bahaskoding-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/bahaskoding)
+<p align="center">
+  <a href="https://bahaskoding.com/"><img src="https://img.shields.io/badge/bahaskoding.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://www.instagram.com/bahaskoding/"><img src="https://img.shields.io/badge/Instagram-26K%2B%20Community-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/rai-rakhmat/"><img src="https://img.shields.io/badge/LinkedIn-Rai%20Rakhmat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@bahaskoding"><img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:business.rkhmt@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
 ---
 
-## $ whoami
+## 👨‍💻 $ whoami --verbose
 
 ```js
 const rai = {
-  name      : "Rai Rakhmat Syarifudin Supardi",
-  alias     : "bahaskoding",
-  role      : ["Web Developer", "Content Creator", "Google Student Ambassador"],
-  education : "Sistem Informasi — Fakultas Ilmu Komputer",
-  coding    : "since 2020",
+  name        : "Rai Rakhmat Syarifudin Supardi",
+  alias       : "bahaskoding",
+  title       : "Full-Stack Web Architect, Tech Educator & Community Leader",
+  education   : "Information Systems — Faculty of Computer Science",
+  codingSince : 2020,
 
-  achievements: [
-    "🏆 Google Student Ambassador (GSA) Class of 2025",
-    "⭐ Top 20 Gemini Achiever",
+  leadership_and_achievements: [
+    "🏛️ Director of Technical Division — GDGoC IPB (Google Developer Groups on Campus)",
+    "🏆 Google Student Ambassador (GSA) Class of 2025 (AI for Daily Student Productivity)",
+    "⭐ Top 20 Gemini Achiever — GSA Program (Applied AI for Academics & Daily Tasks)",
+    "👨‍🏫 1:1 Private Web Dev Mentor (Hands-on Production Coaching)",
   ],
 
-  interests : ["Frontend", "Backend", "DevOps", "Linux", "AI & Prompt Engineering"],
-  currently : "Building things, sharing knowledge, repeat.",
+  impact: {
+    community : "26,000+ passionate tech learners & builders across social media",
+    mentoring : "Full-stack web architecture, scalable database schemas, & production deployment",
+    events    : "Workshops & Tech Catalysts across campuses and developer communities",
+  },
+
+  philosophy  : "Writing clean, scalable code while democratizing software engineering knowledge.",
 };
 ```
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Core Arsenal & Tech Ecosystem
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<div align="center">
 
-**Backend**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+| Domain | Weapon of Choice |
+| :--- | :--- |
+| **Backend & Architecture** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white) ![MVC Architecture](https://img.shields.io/badge/Architecture-MVC%20%26%20Clean%20Code-007ACC?style=flat-square) |
+| **Frontend Dynamics** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Blade](https://img.shields.io/badge/Laravel-Blade%20UI-FF2D20?style=flat-square) |
+| **Database & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Database Normalization](https://img.shields.io/badge/Data%20Modeling-Normalized%20Schemas-2ea44f?style=flat-square) |
+| **Workflow & Productivity** | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-Student%20Productivity-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![Markdown](https://img.shields.io/badge/Second%20Brain-Obsidian%20Markdown-7C3AED?style=flat-square&logo=obsidian&logoColor=white) |
+| **DevOps, Tools & Systems** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
-**Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & Others**
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Systems, Mentoring & Production Tracks
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│ 🛒 E-Commerce & Catalog Engines  │ Laravel 13, Midtrans Gateway & Direct Order  │
+│ 🕌 Management & SIM Systems      │ Complex Relational Schemas & Billing Engine  │
+│ 🎙️ Technical Community Catalyst  │ Leading 8+ Core Tech Engineers @ GDGoC IPB   │
+│ ⚡ Fast Iteration & Productivity │ Clean Architecture, CLI Workflows & Mentoring│
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 Live Metrics & GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bahaskoding&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
@@ -91,12 +100,22 @@ const rai = {
 
 ---
 
+## 🤝 Let's Collaborate & Build!
+
+Terbuka untuk kolaborasi proyek sistem web full-stack, privat mentoring 1:1, workshop kampus & developer community, atau sharing session seputar web architecture & modern AI workflow.
+
+- 💬 **Direct Consultation / Business**: [business.rkhmt@gmail.com](mailto:business.rkhmt@gmail.com)
+- 💼 **Professional Network**: [linkedin.com/in/rai-rakhmat](https://www.linkedin.com/in/rai-rakhmat/)
+- 📲 **Instagram Direct Message**: [@bahaskoding](https://www.instagram.com/bahaskoding/)
+
+---
+
 <div align="center">
 
-*"Belajar coding bukan tentang seberapa cepat kamu menguasainya,*
+*"Belajar coding bukan tentang seberapa cepat kamu menguasainya,*  
 *tapi seberapa gigih kamu dalam prosesnya."*
 
-**— Rai, @bahaskoding**
+**— Rai Rakhmat, @bahaskoding**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bahaskoding&color=58a6ff&style=flat-square&label=profile+views)
 
